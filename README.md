@@ -68,8 +68,8 @@ It includes small apps, layouts, and practice tasks — all done with 💛 and a
 🔗 [Portfolio Site](https://AnnaR23.github.io)
 
 ---
-
-### 📊 GitHub Stats *(optional)*
+<!--
+### 📊 GitHub Stats 
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaR23&show_icons=true&theme=react)
-
+-->
