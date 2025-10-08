@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Anna Roda
 
 I'm a **Junior Full-Stack JavaScript Developer** based in Bückeburg, Germany 🇩🇪  
-💻 Passionate about clean code, responsive UI, and learning new technologies.
+💻 Passionate about clean code, responsive UI, and continuous learning.
 
-🔍 I’m currently open to new opportunities and eager to contribute to real-world projects.
+🎓 I completed a Full-Stack JavaScript course at Hillel IT School.  
+🚀 I’m currently looking for entry-level positions in **Frontend Development** or **Software Testing (QA)**.  
+🧪 Open to both development and quality assurance roles — especially where I can grow, contribute, and learn.
 
 ---
 
@@ -19,6 +21,8 @@ I'm a **Junior Full-Stack JavaScript Developer** based in Bückeburg, Germany �
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Vitest-6E40C9?logo=vitest&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testing-library&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" />
 </p>
 
@@ -69,6 +73,9 @@ It includes small apps, layouts, and practice tasks — all done with 💛 and a
 🔗 [Portfolio Site](https://AnnaR23.github.io)
 
 ---
+
+**Currently open to new opportunities — Frontend or QA — remote or hybrid.**
+
 <!--
 ### 📊 GitHub Stats 
 
